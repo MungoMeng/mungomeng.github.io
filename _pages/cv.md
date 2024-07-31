@@ -11,26 +11,24 @@ redirect_from:
 
 Education
 ======
-* PhD in Computer Science, The University of Sydney, Begining from 2021
-* MPhil in Computer Science, The University of Sydney, 2021
-* BE in Electronic Engineering, Tsinghua University, 2018
+* PhD in Computer Science, The University of Sydney, 10/2021 - now
+* MPhil in Computer Science, The University of Sydney, 10/2019 - 10/2021
+* BE in Electronic Engineering, Tsinghua University, 08/2014 - 07/2018
 
 Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Shanghai Jiao Tong University
+  * Visiting Scholar, Suprvised by Prof. Lei Bi, 07/2024 - now
+  * Research Assistant, Suprvised by Prof. Lei Bi, 03/2024 - 07/2023
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* The University of Sydney
+  * Research Assistant, Suprvised by Prof. Jinman Kim, 10/2019 - 10/2020
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sun Yat-sen University
+  * Research Assistant, Suprvised by Prof. Zhiyi Yu, 02/2019 - 09/2019
+ 
+* Microscene Beijing Technology
+  * Intern Algorithm Engineer, 06/2017 - 12/2017
   
 Awards
 ======
