@@ -1,7 +1,7 @@
 ---
 title: "Spiking Inception Module for Multi-layer Unsupervised Spiking Neural Networks"
 collection: publications
-permalink: /publication/Paper_2
+permalink: /publication/Spiking_Inception_Module_for_Multi-layer_Unsupervised_Spiking_Neural_Networks
 excerpt: 
 date: 2020-09-28
 venue: 'International Joint Conference on Neural Networks (IJCNN)'
