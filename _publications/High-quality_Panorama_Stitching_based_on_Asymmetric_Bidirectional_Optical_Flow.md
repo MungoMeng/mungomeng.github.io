@@ -1,7 +1,7 @@
 ---
 title: "High-quality Panorama Stitching based on Asymmetric Bidirectional Optical Flow"
 collection: publications
-permalink: /publication/Paper_1
+permalink: /publication/High-quality_Panorama_Stitching_based_on_Asymmetric_Bidirectional_Optical_Flow
 excerpt: 
 date: 2020-08-27
 venue: '2020 5th International Conference on Computational Intelligence and Applications (ICCIA)'
