@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-AU"
-title                    : "Mingyuan Meng / Personal Homepage"
+title                    : "Mingyuan Meng / Homepage"
 title_separator          : "-"
 name                     : &name "Mingyuan Meng"
 description              : &description "Personal Homepage"
@@ -24,17 +24,17 @@ author:
   avatar           : "profile.png"
   name             : "Mingyuan Meng"
   pronouns         : "He/His"  
-  bio              : "a PhD student at the University of Sydney and also a visiting scholar at Shanghai Jiao Tong University"
+  bio              : "A PhD student at the University of Sydney and also a visiting scholar at Shanghai Jiao Tong University"
   location         : "Sydney"
   employer         : "The University of Sydney"
   uri              : # URL
   email            : "mungomeng@qq.com" 
 
   # Academic websites
-  arxiv            : "https://arxiv.org/a/meng_m_1.html"
   googlescholar    : "https://scholar.google.com/citations?user=jBaR6EAAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-9562-1613"
+  arxiv            : "https://arxiv.org/a/meng_m_1.html"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
