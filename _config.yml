@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-AU"
-title                    : "Homepage"
+title                    : "Mingyuan Meng / Homepage"
 title_separator          : "-"
 name                     : &name "Mingyuan Meng"
 description              : &description "Personal Homepage"
