@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-AU"
-title                    : "Mingyuan Meng / Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Mingyuan Meng"
 description              : &description "Personal Homepage"
@@ -34,7 +34,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=jBaR6EAAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-9562-1613"
-  arxiv            : "https://arxiv.org/a/meng_m_1.html"
+  arxiv            : # URL
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
