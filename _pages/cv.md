@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/1f4d1f96-06b8-454d-86d0-5834c3fca937)---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, The University of Sydney, Begining from 2021
+* M.Phi. in Computer Science, The University of Sydney, 2021
+* B.E. in Electronic Engineering, Tsinghua University, 2018
 
-Work experience
+Work Experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -32,33 +32,30 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Best Paper Award Candidate (Top-24), CVPR2024
+* The “Not Lena” Award, DICTA2023
+* Second-placed Winner of HECKTOR Challenge, MICCAI 2022
+* Best Presentation Award, ICCIA 2020
+  
+Academic Service
+======
+* Journal Editor
+  * Review Editor, Frontiers in Radiology
+* Journal Reviewer
+  * IEEE Transactions on Medical Imaging
+  * Medical Image Analysis
+  * IEEE Journal of Biomedical and Health Informatics
+  * Neural Networks
+  * Computers in Biology and Medicine
+  * Artificial Intelligence in Medicine
+  * Computer Methods and Programs in Biomedicine
+  * The Visual Computer
+  * Frontiers in Neuroscience
+  * Frontiers in Oncology
+* Conference Reviewer
+  * Neural Information Processing Systems (NeurIPS)
+  * Medical Image Computing and Computer-Assisted Intervention (MICCAI)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
