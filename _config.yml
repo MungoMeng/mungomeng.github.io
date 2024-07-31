@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-AU"
-title                    : "Your Name / Site Title"
+title                    : "Mingyuan Meng / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Mingyuan Meng"
+description              : &description "Personal Homepage"
 url                      : https://mungomeng.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MungoMeng/mungomeng.github.io"
@@ -23,32 +23,32 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Mingyuan Meng"
-  pronouns         : "he/his"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "He/His"  
+  bio              : "a PhD student at the University of Sydney and also a visiting scholar at Shanghai Jiao Tong University"
   location         : "Sydney"
   employer         : "The University of Sydney"
   uri              : # URL
   email            : "mungomeng@qq.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : "https://arxiv.org/a/meng_m_1.html"
+  googlescholar    : "https://scholar.google.com/citations?user=jBaR6EAAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-9562-1613"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "MungoMeng"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
