@@ -2,7 +2,7 @@
 title: "Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration"
 collection: publications
 permalink: /publication/Correlation-aware_Coarse-to-fine_MLPs_for_Deformable_Medical_Image_Registration
-excerpt: Presented as oral presentation and selected as a best paper award candidate (Top-24) at CVPR 2024
+excerpt: Presented as oral presentation and selected as best paper award candidate (Top 24) at CVPR 2024
 date: 2024-06-21
 venue: 'IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)'
 slidesurl: 
