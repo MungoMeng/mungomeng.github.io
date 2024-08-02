@@ -11,7 +11,7 @@ I received a BE degree at Tsinghua University in 2018 and received a MPhil degre
 
 My research focus is deep learning for medical image analysis, especially in medical image dense prediction and image-based diagnosis/prognosis. My previous research includes medical image registration, segmentation, and reconstruction, and also multi-modal image-based survival prediction and report generation. Please feel free to contact me for any potential collaborations.
 
-[I plan to graduate in early 2025 and am actively looking for academic position!]
+**I plan to graduate in early 2025 and am actively looking for academic position!
 
 News
 ======
