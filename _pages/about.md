@@ -11,8 +11,9 @@ I received a BE degree at Tsinghua University in 2018 and received a MPhil degre
 
 My research focus is deep learning for medical image analysis, especially in medical image dense prediction and image-based diagnosis/prognosis. My previous research includes medical image registration, segmentation, and reconstruction, and also multi-modal image-based survival prediction and report generation. 
 
-**I plan to graduate from PhD in early 2025 and am actively looking for academic position! Please feel free to contact me for any job opportunities or potential collaborations.**
+**I plan to graduate from PhD in early 2025 and am actively looking for academic position. Please feel free to contact me for any job opportunities or potential collaborations!**
 
 News
 ======
-Null
+* [06/2024] Two papers are accepted at MICCAI 2024.
+* [03/2024] Our paper titled [Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration](https://arxiv.org/abs/2406.00123) is accepted at CVPR 2024 as oral presentation and also is selected as Best Paper Award Candidate (Top 24).
