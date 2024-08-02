@@ -15,5 +15,6 @@ My research focus is deep learning for medical image analysis, especially in med
 
 News
 ======
-* [06/2024] Two papers about language-guided segmentation and oral image reconstruction are accepted at MICCAI 2024.
-* [03/2024] Our paper titled [Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration](https://arxiv.org/abs/2406.00123) is accepted at CVPR 2024 and is selected as Best Paper Award Candidate (Top 24).
+* [06/2024] Two papers are accepted by MICCAI 2024.
+* [03/2024] Our paper titled [Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration](https://arxiv.org/abs/2406.00123) is accepted by CVPR 2024 and is selected as Best Paper Award Candidate (Top 24).
+* [08/2023] One papers is accepted by European Journal of Nuclear Medicine and Molecular Imaging (EJNMMI).
