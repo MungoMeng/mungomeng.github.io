@@ -3,7 +3,7 @@ title: "Adaptive Segmentation-to-Survival Learning for Survival Prediction from 
 collection: publications
 permalink: /publication/Adaptive_Segmentation-to-Survival_Learning_for_Survival_Prediction_from_Multi-Modality_Medical_Images
 excerpt: 
-date: 2023-08-28
+date: 2024-08-28
 venue: 'npj Precision Oncology'
 slidesurl: 
 paperurl: 
