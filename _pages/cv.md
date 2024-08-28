@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/af0785ad-065a-43a8-846c-1b8225be8400)---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -45,6 +45,7 @@ Academic Service
   * IEEE Transactions on Medical Imaging
   * Medical Image Analysis
   * IEEE Journal of Biomedical and Health Informatics
+  * Pattern Recognition
   * Neural Networks
   * Computers in Biology and Medicine
   * Artificial Intelligence in Medicine
@@ -54,6 +55,7 @@ Academic Service
   * Frontiers in Oncology
 * Conference Reviewer
   * Neural Information Processing Systems (NeurIPS)
+  * International Conference on Learning Representations (ICLR)
   * Medical Image Computing and Computer-Assisted Intervention (MICCAI)
 
 
