@@ -50,6 +50,7 @@ Academic Service
   * Computers in Biology and Medicine
   * Artificial Intelligence in Medicine
   * Computer Methods and Programs in Biomedicine
+  * IEEE Signal Processing Letters
   * The Visual Computer
   * Frontiers in Neuroscience
   * Frontiers in Oncology
