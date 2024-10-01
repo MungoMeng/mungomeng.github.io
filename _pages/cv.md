@@ -58,5 +58,7 @@ Academic Service
   * Neural Information Processing Systems (NeurIPS)
   * International Conference on Learning Representations (ICLR)
   * Medical Image Computing and Computer-Assisted Intervention (MICCAI)
+  * Artificial Intelligence and Statistics Conference (AISTATS)
+
 
 
