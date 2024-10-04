@@ -42,18 +42,17 @@ Academic Service
 * Journal Editor
   * Review Editor, Frontiers in Radiology
 * Journal Reviewer
+  * International Journal of Computer Vision
   * IEEE Transactions on Medical Imaging
   * Medical Image Analysis
   * IEEE Journal of Biomedical and Health Informatics
   * Pattern Recognition
   * Neural Networks
+  * Engineering Applications of Artificial Intelligence
   * Computers in Biology and Medicine
   * Artificial Intelligence in Medicine
   * Computer Methods and Programs in Biomedicine
   * IEEE Signal Processing Letters
-  * The Visual Computer
-  * Frontiers in Neuroscience
-  * Frontiers in Oncology
 * Conference Reviewer
   * Neural Information Processing Systems (NeurIPS)
   * International Conference on Learning Representations (ICLR)
