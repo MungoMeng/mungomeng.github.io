@@ -6,6 +6,6 @@ excerpt:
 date: 2024-08-28
 venue: 'npj Precision Oncology'
 slidesurl: 
-paperurl: 
-citation: 'Mingyuan Meng, Bingxin Gu, Michael Fulham, Shaoli Song, Dagan Feng, Lei Bi, and Jinman Kim. Adaptive Segmentation-to-Survival Learning for Survival Prediction from Multi-Modality Medical Images. npj Precision Oncology, 2024.'
+paperurl: https://www.nature.com/articles/s41698-024-00690-y
+citation: 'Mingyuan Meng, Bingxin Gu, Michael Fulham, Shaoli Song, Dagan Feng, Lei Bi, and Jinman Kim. Adaptive Segmentation-to-Survival Learning for Survival Prediction from Multi-Modality Medical Images. npj Precision Oncology, 8:232, 2024.'
 ---
