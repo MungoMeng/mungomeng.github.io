@@ -54,8 +54,10 @@ Academic Service
   * Computer Methods and Programs in Biomedicine
   * IEEE Signal Processing Letters
 * Conference Reviewer
+  * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
   * Neural Information Processing Systems (NeurIPS)
   * International Conference on Learning Representations (ICLR)
+  * International Conference on Machine Learning (ICML)
   * Medical Image Computing and Computer-Assisted Intervention (MICCAI)
   * Artificial Intelligence and Statistics Conference (AISTATS)
 
