@@ -42,17 +42,17 @@ Academic Service
 * Journal Editor
   * Review Editor, Frontiers in Radiology
 * Journal Reviewer
-  * International Journal of Computer Vision
   * IEEE Transactions on Medical Imaging
-  * Medical Image Analysis
+  * IEEE Transactions on Circuits and Systems for Video Technology
   * IEEE Journal of Biomedical and Health Informatics
+  * International Journal of Computer Vision
+  * Medical Image Analysis
   * Pattern Recognition
   * Neural Networks
   * Engineering Applications of Artificial Intelligence
   * Computers in Biology and Medicine
   * Artificial Intelligence in Medicine
   * Computer Methods and Programs in Biomedicine
-  * IEEE Signal Processing Letters
 * Conference Reviewer
   * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
   * Neural Information Processing Systems (NeurIPS)
