@@ -18,7 +18,7 @@ News
 * [12/2024] One paper is accepted by Pattern Recognition.
 * [08/2024] One paper is accepted by npj Precision Oncology.
 * [06/2024] Two papers are accepted by MICCAI 2024.
-* [03/2024] Our paper titled [Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration](https://arxiv.org/abs/2406.00123) is accepted by CVPR 2024 and is selected as Best Paper Award Candidate (Top 24).
+* [03/2024] Our paper titled [Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration](https://arxiv.org/abs/2406.00123) is accepted by CVPR 2024 and is nominated as Best Paper Award Candidate (Top 24).
 * [08/2023] One paper is accepted by European Journal of Nuclear Medicine and Molecular Imaging (EJNMMI).
 * [06/2023] Two papers are accepted by MICCAI 2023.
 * [09/2022] Our method ranks 2nd in the HECKTOR challenge at MICCAI 2022.
