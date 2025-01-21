@@ -15,7 +15,8 @@ My research focus is deep learning for medical image analysis, especially in med
 
 News
 ======
-* [12/2024] One paper is accepted by Pattern Recognition.
+* [01/2025] One paper is accepted by IEEE Transactions on Medical Imaging (TMI).
+* [12/2024] One paper is accepted by Pattern Recognition (PR).
 * [08/2024] One paper is accepted by npj Precision Oncology.
 * [06/2024] Two papers are accepted by MICCAI 2024.
 * [03/2024] Our paper titled [Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration](https://arxiv.org/abs/2406.00123) is accepted by CVPR 2024 and is nominated as Best Paper Award Candidate (Top 24).
@@ -24,5 +25,5 @@ News
 * [09/2022] Our method ranks 2nd in the HECKTOR challenge at MICCAI 2022.
 * [07/2022] One paper is accepted by NeuroImage. 
 * [06/2022] One paper is accepted by MICCAI 2022.
-* [06/2022] One paper is accepted by IEEE-JBHI.
+* [06/2022] One paper is accepted by IEEE Journal of Biomedical and Health Informatics (JBHI).
 
