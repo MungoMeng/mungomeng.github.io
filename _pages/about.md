@@ -24,5 +24,5 @@ News
 * [06/2023] Two papers are accepted by MICCAI 2023.
 * [09/2022] Our method ranks 2nd in the HECKTOR challenge at MICCAI 2022.
 * [07/2022] One paper is accepted by NeuroImage. 
-* [06/2022] Tow papers are accepted by MICCAI 2022 and IEEE Journal of Biomedical and Health Informatics (JBHI).
+* [06/2022] Two papers are accepted by MICCAI 2022 and IEEE Journal of Biomedical and Health Informatics (JBHI).
 
