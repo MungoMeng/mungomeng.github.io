@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD in Computer Science, The University of Sydney, 10/2021 - now
+* PhD in Computer Science, The University of Sydney, 10/2021 - 02/2025
 * MPhil in Computer Science, The University of Sydney, 10/2019 - 10/2021
 * BE in Electronic Engineering, Tsinghua University, 08/2014 - 07/2018
 
