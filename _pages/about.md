@@ -7,14 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I received a BE degree at Tsinghua University in 2018 and received a MPhil degree at the University of Sydney in 2021. Currently, I am pursuing a PhD degree at the School of Computer Science, the University of Sydney, supervised by [Prof. David Dagan Feng](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dagan-feng.html), [Prof. Jinman Kim](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/jinman-kim.html), and [Prof. Michael Fulham](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/michael-fulham.html). Recently, I also attended the Institue of Translational Medicine, Shanghai Jiao Tong University, as a visiting scholar, supervised by [Prof. Lei Bi](http://lei.bi/).
+I received a PhD degree at the School of Computer Science, the University of Sydney in 2025. Before this, I received a BE degree at Tsinghua University in 2018 and a MPhil degree at the University of Sydney in 2021. My MPhil and PhD degrees were supervised by [Prof. David Dagan Feng](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dagan-feng.html), [Prof. Jinman Kim](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/jinman-kim.html), and [Prof. Michael Fulham](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/michael-fulham.html). From July 2024, I attended the Institue of Translational Medicine, Shanghai Jiao Tong University, as a part-time visiting scholar, supervised by [Prof. Lei Bi](http://lei.bi/).
 
 My research focus is deep learning for medical image analysis, especially in medical image dense prediction and image-based diagnosis/prognosis. My research projects involve medical image registration, segmentation, and reconstruction, and also multi-modal image-based survival prediction and report generation. 
 
-**I plan to graduate from PhD in early 2025 and am actively looking for academic positions. Please feel free to contact me for any job opportunities or research collaborations!**
+**I am actively looking for tenure-track academic positions. Please feel free to contact me for any job opportunities or research collaborations!**
 
 News
 ======
+* [02/2025] PhD degree is awarded at the University of Sydney.
 * [01/2025] One paper is accepted by IEEE Transactions on Medical Imaging (TMI).
 * [12/2024] One paper is accepted by Pattern Recognition (PR).
 * [08/2024] One paper is accepted by npj Precision Oncology.
