@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I received a PhD degree at the University of Sydney in 2025. Before this, I received a BE degree at Tsinghua University in 2018 and a MPhil degree at the University of Sydney in 2021. My MPhil and PhD were supervised by [Prof. David Dagan Feng](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dagan-feng.html) and [Prof. Jinman Kim](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/jinman-kim.html), respectively. From July 2024, I attended the Institue of Translational Medicine, Shanghai Jiao Tong University, as a part-time visiting scholar, supervised by [Prof. Lei Bi](http://lei.bi/).
+I received a PhD degree at the University of Sydney in 2025. Before this, I received a BE degree at Tsinghua University in 2018 and a MPhil degree at the University of Sydney in 2021. My PhD and MPhil were supervised by [Prof. Jinman Kim](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/jinman-kim.html) and [Prof. David Dagan Feng](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dagan-feng.html). From July 2024, I attended the Institue of Translational Medicine, Shanghai Jiao Tong University, as a part-time visiting scholar, supervised by [Prof. Lei Bi](http://lei.bi/).
 
 My research focus is deep learning for medical image analysis, especially in medical image dense prediction and image-based diagnosis/prognosis. My research projects involve medical image registration, segmentation, and reconstruction, and also multi-modal image-based survival prediction and report generation. 
 
