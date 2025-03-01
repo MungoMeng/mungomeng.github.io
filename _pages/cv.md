@@ -34,7 +34,7 @@ Awards
 ======
 * Best Paper Award Candidate (Top 24), CVPR 2024
 * The “Not Lena” Award, DICTA 2023
-* Second-placed Winner of HECKTOR Challenge, MICCAI 2022
+* Runner-up at HECKTOR Challenge, MICCAI 2022
 * Best Presentation Award, ICCIA 2020
   
 Academic Service
