@@ -55,6 +55,7 @@ Academic Service
   * Computer Methods and Programs in Biomedicine
 * Conference Reviewer
   * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+  * International Conference on Computer Vision (ICCV)
   * Neural Information Processing Systems (NeurIPS)
   * International Conference on Learning Representations (ICLR)
   * International Conference on Machine Learning (ICML)
