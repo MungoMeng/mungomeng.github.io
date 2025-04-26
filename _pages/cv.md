@@ -19,7 +19,7 @@ Work Experience
 ======
 * The University of Sydney
   * Postdoctoral Research Assistant, 04/2025 - now
-  * Research Assistant, Supervised by Prof. Jinman Kim, 10/2019 - 10/2020
+  * Research Assistant, supervised by Prof. Jinman Kim, 10/2019 - 10/2020
 
 * Shanghai Jiao Tong University
   * Visiting Scholar, 07/2024 - now
