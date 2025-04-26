@@ -26,7 +26,7 @@ Work Experience
   * Research Assistant, supervised by Prof. Lei Bi, 03/2024 - 07/2023
 
 * Sun Yat-sen University
-  * Research Assistant, Supervised by Prof. Zhiyi Yu, 02/2019 - 09/2019
+  * Research Assistant, supervised by Prof. Zhiyi Yu, 02/2019 - 09/2019
  
 * Microscene Beijing Technology
   * Intern Algorithm Engineer, 06/2017 - 12/2017
