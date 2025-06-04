@@ -7,5 +7,5 @@ date: 2025-1-29
 venue: 'IEEE Transactions on Medical Imaging'
 slidesurl: 
 paperurl: https://ieeexplore.ieee.org/document/10858000
-citation: 'Mingjian Li, Mingyuan Meng, Michael Fulham, David Dagan Feng, Lei Bi, and Jinman Kim. Enhancing medical vision-language contrastive learning via inter-matching relation modelling. IEEE Transactions on Medical Imaging, Early Access, 2025.'
+citation: 'Mingjian Li, Mingyuan Meng, Michael Fulham, David Dagan Feng, Lei Bi, and Jinman Kim. Enhancing medical vision-language contrastive learning via inter-matching relation modelling. IEEE Transactions on Medical Imaging, 44(6):2463-2476, 2025.'
 ---
