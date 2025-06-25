@@ -15,6 +15,7 @@ His research focus is deep learning for medical image analysis, especially in me
 
 News
 ======
+* [06/2025] One paper is accepted by ICCV 2025. 
 * [02/2025] PhD degree is awarded at the University of Sydney.
 * [01/2025] One paper is accepted by IEEE Transactions on Medical Imaging (TMI).
 * [12/2024] One paper is accepted by Pattern Recognition (PR).
