@@ -15,6 +15,7 @@ His research focus is deep learning for medical image analysis, especially in me
 
 News
 ======
+* [07/2025] I am honoured to receive the Outstanding PhD Thesis Award at The University of Sydney (Top 2 at The School of Computer Science)
 * [06/2025] One paper is accepted by ICCV 2025. 
 * [02/2025] PhD degree is awarded at the University of Sydney.
 * [01/2025] One paper is accepted by IEEE Transactions on Medical Imaging (TMI).
