@@ -6,6 +6,6 @@ excerpt:
 date: 2025-06-26
 venue: 'International Conference on Computer Vision (ICCV)'
 slidesurl: 
-paperurl: 
+paperurl: https://arxiv.org/abs/2507.11055
 citation: 'Shuchang Ye, Usman Naseem, Mingyuan Meng, and Jinman Kim. Alleviating Textual Reliance in Medical Language-guided Segmentation via Prototype-driven Semantic Approximation. In International Conference on Computer Vision (ICCV), in press, 2025.'
 ---
