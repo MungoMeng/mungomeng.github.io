@@ -53,17 +53,14 @@ Academic Service
   * Pattern Recognition
   * Neural Networks
   * Engineering Applications of Artificial Intelligence
-  * Computers in Biology and Medicine
-  * Artificial Intelligence in Medicine
-  * Computer Methods and Programs in Biomedicine
 * Conference Reviewer
   * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
   * International Conference on Computer Vision (ICCV)
   * Neural Information Processing Systems (NeurIPS)
   * International Conference on Learning Representations (ICLR)
   * International Conference on Machine Learning (ICML)
+  * AAAI Conference on Artificial Intelligence (AAAI)
   * Medical Image Computing and Computer-Assisted Intervention (MICCAI)
-  * Artificial Intelligence and Statistics Conference (AISTATS)
 
 
 
