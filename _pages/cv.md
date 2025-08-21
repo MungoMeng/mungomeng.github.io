@@ -49,6 +49,7 @@ Academic Service
   * IEEE Journal of Biomedical and Health Informatics
   * International Journal of Computer Vision
   * Medical Image Analysis
+  * Information Fusion
   * Pattern Recognition
   * Neural Networks
   * Engineering Applications of Artificial Intelligence
