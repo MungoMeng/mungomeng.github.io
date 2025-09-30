@@ -17,7 +17,7 @@ News
 ======
 * [09/2025] We are the First-placed Winner🏆 at MICCAI 2025 HECKTOR Challenge.
 * [09/2025] Long Oral Presentation at MICCAI 2025 Doctoral Consortium (Top 8 Finalist🏆)
-* [07/2025] Received the Outstanding PhD Thesis Award🏆 at the University of Sydney (Ranked Top 2 at the School of Computer Science).
+* [07/2025] Received the Outstanding PhD Thesis Award🏆 at the University of Sydney (Top 2 at the School of Computer Science).
 * [06/2025] One paper is accepted by ICCV 2025. 
 * [02/2025] PhD degree is awarded at the University of Sydney.
 * [01/2025] One paper is accepted by IEEE Transactions on Medical Imaging (TMI).
