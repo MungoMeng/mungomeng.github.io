@@ -15,6 +15,8 @@ His research focus is deep learning for medical image analysis, especially in me
 
 News
 ======
+* [09/2025] We are the First-placed Winner🏆 for the diagnosis task at MICCAI 2025 HECKTOR Challenge.
+* [09/2025] Invited for Long Oral Presentation at MICCAI 2025 Doctoral Consortium (Top 8 Finalist🏆)
 * [07/2025] Received the Outstanding PhD Thesis Award🏆 at the University of Sydney (Ranked Top 2 at the School of Computer Science).
 * [06/2025] One paper is accepted by ICCV 2025. 
 * [02/2025] PhD degree is awarded at the University of Sydney.
@@ -25,7 +27,7 @@ News
 * [03/2024] Our paper titled [Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration](https://arxiv.org/abs/2406.00123) is accepted by CVPR 2024 and is nominated as Best Paper Award Candidate🏆(Top 24).
 * [08/2023] One paper is accepted by European Journal of Nuclear Medicine and Molecular Imaging (EJNMMI).
 * [06/2023] Two papers are accepted by MICCAI 2023.
-* [09/2022] We are Runner-up🏆 in the HECKTOR challenge at MICCAI 2022.
+* [09/2022] We are Runner-up🏆 for the prognosis task at MICCAI 2022 HECKTOR Challenge.
 * [07/2022] One paper is accepted by NeuroImage. 
 * [06/2022] Two papers are accepted by MICCAI 2022 and IEEE Journal of Biomedical and Health Informatics (JBHI).
 
