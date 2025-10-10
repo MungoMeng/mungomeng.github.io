@@ -15,6 +15,7 @@ His research focus is deep learning for medical image analysis, especially in me
 
 News
 ======
+* [10/2025] One paper is accepted by IEEE Transactions on Multimedia (TMM).
 * [09/2025] We are the First-placed Winner🏆 at MICCAI 2025 HECKTOR Challenge.
 * [09/2025] Long Oral Presentation at MICCAI 2025 Doctoral Consortium (Top 8 Finalist🏆)
 * [07/2025] Received the Outstanding PhD Thesis Award🏆 at the University of Sydney (Top 2 at the School of Computer Science).
