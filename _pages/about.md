@@ -11,7 +11,7 @@ Dr. Mingyuan Meng is a Postdoctoral Researcher at the School of Computer Science
 
 His research focus is deep learning for medical image analysis, especially in medical image dense prediction and image-based diagnosis/prognosis. His research projects involve medical image registration, segmentation, and reconstruction, as well as multi-modal image-based survival prediction and report generation. 
 
-**He is actively looking for tenure-track academic positions. Please feel free to contact him for any job opportunities or research collaborations!**
+**He is going to attend Zhongguancun Academy & Zhongguancun Institute of Artificial Intelligence as Assistant Professor in Beijing!**
 
 News
 ======
