@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Mingyuan Meng is an Assistant Professor and PhD Supervisor at Zhongguancun Academy and Zhongguancun Institute of Artificial Intelligence in Beijing, China. Before this, he was a Postdoctoral Assistant Researcher at the School of Computer Science, the University of Sydney in Australia until Mar 2026, and also served as a Visiting Scholar at the Institute of Translational Medicine, Shanghai Jiao Tong University in Shanghai, China from Jul 2024 to Jun 2025.  
+Dr. Mingyuan Meng is an Assistant Professor (PhD Supervisor) at Zhongguancun Academy and Zhongguancun Institute of Artificial Intelligence in Beijing, China. Before this, he was a Postdoctoral Assistant Researcher at the School of Computer Science, the University of Sydney in Australia until Mar 2026, and also served as a Visiting Scholar at the Institute of Translational Medicine, Shanghai Jiao Tong University in Shanghai, China from Jul 2024 to Jun 2025.  
 
 Dr. Meng received a BE degree from Tsinghua University in 2018, supervised by [Prof. Yong Li](https://scholar.google.com/citations?user=kmgzPeQAAAAJ) and [Prof. Beixing Deng](https://web.ee.tsinghua.edu.cn/dengbeixing/en/index.htm), and then received MPhil/PhD degrees from the University of Sydney in 2021/2025, supervised by [Prof. Jinman Kim](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/jinman-kim.html), [Prof. David Dagan Feng](https://scholar.google.com/citations?user=89py58oAAAAJ), and [Prof. Lei Bi](http://lei.bi/).
 
