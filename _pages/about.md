@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Mingyuan Meng is a Postdoctoral Researcher at the School of Computer Science, the University of Sydney. He received a BE degree from Tsinghua University in 2018. Then, he received MPhil/PhD degrees from the University of Sydney in 2021/2025, supervised by [Prof. Jinman Kim](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/jinman-kim.html) and [Prof. David Dagan Feng](https://scholar.google.com/citations?user=89py58oAAAAJ&hl=en). He also serves as a Visiting Scholar at the Institute of Translational Medicine, Shanghai Jiao Tong University, supervised by [Prof. Lei Bi](http://lei.bi/).
+Dr. Mingyuan Meng is an Assistant Professor at Zhongguancun Academy and Zhongguancun Institute of Artificial Intelligence in Beijing, China. Before this, he was a Postdoctoral Assistant Researcher at the School of Computer Science, the University of Sydney in Australia from Apr 2025 to Mar 2026, and also served as a Visiting Scholar at the Institute of Translational Medicine, Shanghai Jiao Tong University in Shanghai, China. He received a BE degree from Tsinghua University in 2018, supervised by [Prof. Yong Li](https://scholar.google.com/citations?user=kmgzPeQAAAAJ) and [Prof. Beixing Deng](https://web.ee.tsinghua.edu.cn/dengbeixing/en/index.htm), and MPhil/PhD degrees from the University of Sydney in 2021/2025, supervised by [Prof. Jinman Kim](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/jinman-kim.html), [Prof. David Dagan Feng](https://scholar.google.com/citations?user=89py58oAAAAJ), and [Prof. Lei Bi](http://lei.bi/).
 
-His research focus is deep learning for medical image analysis, especially in medical image dense prediction and image-based diagnosis/prognosis. His research projects involve medical image registration, segmentation, and reconstruction, as well as multi-modal image-based survival prediction and report generation. 
-
-**He is going to attend Zhongguancun Academy & Zhongguancun Institute of Artificial Intelligence as Assistant Professor in Beijing!**
+Dr. Meng's research focus is deep learning for medical image analysis, especially in medical image dense prediction and image-based diagnosis/prognosis. His research projects involve medical image registration, segmentation, and reconstruction, as well as diagnosis and prognosis prediction based on multi-modal vision-language data. 
 
 News
 ======
