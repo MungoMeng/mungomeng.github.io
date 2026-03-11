@@ -20,16 +20,16 @@ Work Experience
 * Beijing Zhongguancun Academy & Zhongguancun Institute of Artificial Intelligence
   * Assistant Professor / PhD Supervisor, 03/2026 - Now
 
-* The University of Sydney
-  * Postdoctoral Assistant Researcher, 04/2025 - 03/2026
-  * Research Assistant, supervised by Prof. Jinman Kim, 10/2019 - 10/2020
+* The University of Sydney, supervised by Prof. Jinman Kim
+  * Postdoctoral Researcher, 04/2025 - 03/2026
+  * Research Assistant, 10/2019 - 10/2020
 
-* Shanghai Jiao Tong University
+* Shanghai Jiao Tong University, supervised by Prof. Lei Bi
   * Visiting Scholar, 07/2024 - 06/2025
-  * Research Assistant, supervised by Prof. Lei Bi, 03/2023 - 07/2023
+  * Research Assistant, 03/2023 - 07/2023
 
-* Sun Yat-sen University
-  * Research Assistant, supervised by Prof. Zhiyi Yu, 02/2019 - 09/2019
+* Sun Yat-sen University, supervised by Prof. Zhiyi Yu
+  * Research Assistant, 02/2019 - 09/2019
  
 * Microscene Beijing Technology
   * Intern Algorithm Engineer, 06/2017 - 12/2017
