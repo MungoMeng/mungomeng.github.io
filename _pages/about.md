@@ -15,6 +15,7 @@ Dr. Meng's research focus is deep learning for medical image analysis, especiall
 
 News
 ======
+* [03/2026] Attend Beijing Zhongguancun Academy as Assistant Professor.
 * [10/2025] One paper is accepted by IEEE Transactions on Multimedia (TMM).
 * [09/2025] We are the First-placed Winner🏆 at MICCAI 2025 HECKTOR Challenge.
 * [09/2025] Long Oral Presentation at MICCAI 2025 Doctoral Consortium (Top 8 Finalist🏆)
