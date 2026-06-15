@@ -16,7 +16,7 @@ Dr. Meng's research focus is deep learning for medical image analysis, especiall
 News
 ======
 * [06/2026] Three papers are accepted by MICCAI 2026.
-* [06/2026] Three papers are accepted by IEEE Journal of Biomedical Informatics (JBHI).
+* [06/2026] Three papers are accepted by IEEE Journal of Biomedicine and Health Informatics (JBHI).
 * [03/2026] Attend Beijing Zhongguancun Academy as Assistant Professor.
 * [10/2025] One paper is accepted by IEEE Transactions on Multimedia (TMM).
 * [09/2025] We are the First-placed Winner🏆 at MICCAI 2025 HECKTOR Challenge.
