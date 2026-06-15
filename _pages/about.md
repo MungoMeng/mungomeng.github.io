@@ -15,6 +15,8 @@ Dr. Meng's research focus is deep learning for medical image analysis, especiall
 
 News
 ======
+* [06/2026] Three papers are accepted by MICCAI 2026.
+* [06/2026] Three papers are accepted by IEEE Journal of Biomedical Informatics (JBHI).
 * [03/2026] Attend Beijing Zhongguancun Academy as Assistant Professor.
 * [10/2025] One paper is accepted by IEEE Transactions on Multimedia (TMM).
 * [09/2025] We are the First-placed Winner🏆 at MICCAI 2025 HECKTOR Challenge.
@@ -29,7 +31,4 @@ News
 * [03/2024] Our paper titled [Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration](https://arxiv.org/abs/2406.00123) is accepted by CVPR 2024 and is nominated as Best Paper Award Candidate🏆 (Top 0.2%).
 * [08/2023] One paper is accepted by European Journal of Nuclear Medicine and Molecular Imaging (EJNMMI).
 * [06/2023] Two papers are accepted by MICCAI 2023.
-* [09/2022] We are Runner-up🏆 at MICCAI 2022 HECKTOR Challenge.
-* [07/2022] One paper is accepted by NeuroImage. 
-* [06/2022] Two papers are accepted by MICCAI 2022 and IEEE Journal of Biomedical and Health Informatics (JBHI).
 
